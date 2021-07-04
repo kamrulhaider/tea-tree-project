@@ -78,3 +78,10 @@ h2 {
 .tree-box p {
   text-align: center;
 }
+footer {
+  height: 50px;
+  text-align: center;
+}
+footer h3 {
+  color: #875b24;
+}
