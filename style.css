@@ -24,3 +24,28 @@ h1 {
   font-weight: 700;
   font-size: 50px;
 }
+.second-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5% 5%;
+  background-image: url(images/second-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+h2 {
+  font-size: 50px;
+  font-weight: 700;
+  color: green;
+}
+.first-half p {
+  margin-bottom: 30px;
+}
+.explore {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-image: linear-gradient(green, orange);
+}
